@@ -1,13 +1,13 @@
 This project analyzes the performance differences between three models: Teacher, Odd/Even Layer, and LoRA using a real-world text classification scenario.
 
-# Demo
+# 👨‍💻 Demo
 
 <!-- [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_red.svg)](...) -->
 
 ![Non-toxic](./images/non-toxic.png)
 ![Hate speech](./images/toxic.png)
 
-# Dataset
+# 📚 Dataset
 
 [![Hugging Face Dataset](./images/dataset-on-hf-sm-dark.svg)](https://huggingface.co/datasets/wisnu001binus/Hate_Speech_Dataset)
 
@@ -32,7 +32,7 @@ Data Processing:
   - Evaluation: 1,000 samples
   - Test: 1,000 samples
 
-# Performance Metrics
+# 📈 Performance Metrics
 
 1. **Parameter Efficiency**:
 - Teacher Model: ~109.5M parameters (baseline)
@@ -70,7 +70,7 @@ Recommendation:
 - If balanced performance/efficiency is needed: Use Odd/Even layer approach
 - If maximum accuracy is required: Consider the full teacher model
 
-# **Challenges and Improvements**
+# 🔧 Challenges and Improvements
 
 ### Challenges in Distillation Fine-tuning (Odd/Even Layer)
 
@@ -249,6 +249,6 @@ These sample implementations address the abovementioned  core challenge:
             return self.detect_performance_plateau() or self.detect_instability()
     ```
 
-# Acknowledgements
+# 🙏 Acknowledgements
 - Professor Chaklam Silpasuwanchai (Asian Institute of Technology)
 - Todsavad Tangtortan (Asian Institute of Technology)
