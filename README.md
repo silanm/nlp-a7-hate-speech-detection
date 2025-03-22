@@ -94,7 +94,7 @@ LoRA implementation faced distinct challenges centered around optimization and c
 
 ### Proposed Improvements
 
-These sample implementations address the abovementioned  core challenge:
+These sample implementations address the abovementioned core challenges:
 
 1. **Dynamic loss balancing**
 
