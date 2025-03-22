@@ -2,7 +2,10 @@ This project analyzes the performance differences between three models: Teacher,
 
 # Demo
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_red.svg)](...)
+<!-- [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_red.svg)](...) -->
+
+![Non-toxic](./images/non-toxic.png)
+![Hate speech](./images/toxic.png)
 
 # Dataset
 
