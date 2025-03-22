@@ -238,3 +238,7 @@ These sample implementations address the abovementioned  core challenge:
             # Implement decision logic for strategy adjustment
             return self.detect_performance_plateau() or self.detect_instability()
     ```
+
+# Acknowledgements
+- Professor Chaklam Silpasuwanchai (Asian Institute of Technology)
+- Todsavad Tangtortan (Asian Institute of Technology)
