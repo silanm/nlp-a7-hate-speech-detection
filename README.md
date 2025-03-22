@@ -8,7 +8,7 @@ This project analyzes the performance differences between three models: Teacher,
 
 [![Hugging Face Dataset](./images/dataset-on-hf-sm-dark.svg)](https://huggingface.co/datasets/wisnu001binus/Hate_Speech_Dataset)
 
-The "Hate Speech Dataset" created by wisnu001binus, available on the Hugging Face Hub. The dataset is designed for hate speech detection and classification tasks.
+The **Hate Speech Dataset** is created by wisnu001binus and designed for hate speech detection and classification tasks.
 
 Dataset Characteristics:
 - Source: Hugging Face Datasets (`wisnu001binus/Hate_Speech_Dataset`) 
