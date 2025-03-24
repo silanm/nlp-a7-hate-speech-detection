@@ -48,6 +48,13 @@ Data Processing:
 | Even Layer | 0.1582        | 82.70%            |
 | LoRA       | 0.2383        | 62.40%            |
 
+<div style="display: flex: space-between;">
+    <img src="./images/training_loss.png" alt="Training Loss" style="width: 30%;">
+    <img src="./images/accuracy.png" alt="Accuracy" style="width: 30%;">
+</div>
+
+
+<br/>
 Key Observations:
 
 1. **Odd vs Even Layer Models**:
