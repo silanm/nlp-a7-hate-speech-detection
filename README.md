@@ -49,8 +49,8 @@ Data Processing:
 | LoRA       | 0.2383        | 62.40%            |
 
 <div style="display: flex: space-between;">
-    <img src="./images/training_loss.png" alt="Training Loss" style="width: 40%;">
-    <img src="./images/accuracy.png" alt="Accuracy" style="width: 40%;">
+    <img src="./images/training_loss.png" alt="Training Loss" style="width: 45%;">
+    <img src="./images/accuracy.png" alt="Accuracy" style="width: 45%;">
 </div>
 
 
